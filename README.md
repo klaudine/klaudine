@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **HTML and CSS**
 
-- 📫 How to reach me **klaudineg707@gmail.com**
-
 - ⚡ Fun fact **I have four cats.**
 
 <h3 align="left">Connect with me:</h3>
