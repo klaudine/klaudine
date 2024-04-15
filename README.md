@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Klaudine</h1>
-<h3 align="center">A passionate full-stack developer from California</h3>
+<h3 align="center">A full-stack developer based in Northern California</h3>
 
 - 🔭 I’m currently working on **developing my web development skills.**
 
